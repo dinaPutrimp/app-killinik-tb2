@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Nerko+One&display=swap');
+
+
+.bg-light{
+    background-color: rgb(138, 206, 187) !important;
+}
+.navbar-brand{
+    font-weight: bold;
+    font-family: monospace;
+    font-size: 26px;
+}
+.navbar-nav .nav-item .nav-link{
+    margin: 0 15px;
+    font-weight: 500;
+}
+.btn-m .btn-primary{
+    background-color: seagreen !important;
+}
+.fa-edit{
+    color: slategrey;
+}
+.fa-trash{
+    color: darkred;
+}
+
+.card-rm{
+    background-color: gray;
+}
